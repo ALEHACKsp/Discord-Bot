@@ -1,0 +1,21 @@
+﻿{
+  "Token": "Insira aqui o token do bot",
+  "CmdPrefix": "Insira aqui o prefixo",
+  "Game": "Insira aqui a mensagem do jogo que o bot aparece como jogando",
+  "IdChatGeral": 000000000000000000,
+  "IdChatLog": 000000000000000000,
+  "IdChatConvites": 000000000000000000,
+  "IdServer": 000000000000000000,
+  "WcEmbTitle": "Bem vindo ao NOME DO SERVIDOR",
+  "WcEmbDescription": "Seja bem vindo {user}.\n\nLeia nossas: <#ID CANAL DE TEXTO REGRAS>",
+  "WcEmbImgUrl": "Insira aqui o URL da imagem ou GIF de boas vindas",
+  "PvWcEmbTitle": "**Esses que iniciam com Pv, são referentes a menssagem que é enviada no privado** Bem vindo ao NOME DO SERVIDOR",
+  "PvWcEmbDescription": "Olá {user}, seja muito bem vindo ao nosso servidor!\nEspero que se divirta bastante :heart:",
+  "PvWcEmbFooter": "Não perca tempo, e Divirta-se",
+  "PvWcField1Title": "Titulo Embed 1",
+  "PvWcField1Description": "Descrição do embed\nNúmero 1.",
+  "PvWcField2Title": "Titulo Embed 2",
+  "PvWcField2Description": "Descrição do embed\nNúmero 2.",
+  "PvWcField3Title": "Titulo Embed 3",
+  "PvWcField3Description": "Descrição do embed\nNúmero 3."
+}
