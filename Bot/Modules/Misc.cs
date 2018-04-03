@@ -107,44 +107,6 @@ namespace DPP_Bot.Modules
 
         }
 
-
-        ////  Sobre
-        //[Command("Sobre")]
-        //[Summary("Informações.")]
-        //[RequireBotPermission(ChannelPermission.SendMessages)]
-        //public async Task SobreInfo()
-        //{
-
-        //    var eb = new EmbedBuilder()
-        //    {
-        //        Title = "Sobre",
-        //        Color = new Color(4, 97, 247),
-        //        ThumbnailUrl = (Context.Client.CurrentUser.GetAvatarUrl()),
-        //        Footer = new EmbedFooterBuilder()
-        //        {
-        //            Text = $"Solicitado por {Context.User.Username}#{Context.User.Discriminator}",
-        //            IconUrl = (Context.User.GetAvatarUrl())
-        //        }
-        //    };
-        //    eb.AddField((efb) =>
-        //    {
-        //        efb.Name = "Criador";
-        //        efb.IsInline = true;
-        //        efb.Value =
-        //            "Esse é um bot criado por Hyper#7810.";
-        //    });
-        //    eb.AddField((efb) =>
-        //    {
-        //        efb.Name = "Sobre ";
-        //        efb.IsInline = true;
-        //        efb.Value = "Meu nome é **Leonardo**, sou membro da **LDDM**.\n" +
-        //                    "Meu aniversárioi é 27 de Janeiro, atualmente tenho 20 anos.\n" +
-        //                    "Adoro programação, mas não sou um expert nessa área...\n" +
-        //                    "Jogo lolzinho, e atualmente estou Prata 3 (Humilde...)";
-        //    });
-        //    await ReplyAsync("", false, eb);
-        //}
-
         //  Membros
         [Command("Membros")]
         [Summary("Diz quantos membros temos")]
