@@ -14,4 +14,4 @@ Instruções de instalação estão no proprio GitHub da API
  4.  Meu nick no Discord é **Hyper#1025.**
  5.  Se precisarem de alguma ajuda, podem me chamar. Eu normalmente devo responder.
 
-> Obrigado ao [PetrSpelos]https://github.com/petrspelos pelos tutoriais e demais ajudas na comunidade do Discord
+> Obrigado ao [PetrSpelos](https://github.com/petrspelos) pelos tutoriais e demais ajudas na comunidade do Discord
